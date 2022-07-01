@@ -1,0 +1,4 @@
+Request ID: "1234abcd"
+Name(As Per NRIC): "YANN NGEW"
+Email: "YANN.NGEW@GMAIL.COM"
+Average for the List of Numbers: <floatAverage>
